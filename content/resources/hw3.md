@@ -4,6 +4,7 @@ description: 'Contains problems from the book "Motwani, Rajeez, and Prabhakar Ra
   Randomized Algorithms. Cambridge: Cambridge University Press,1995."'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-856j-randomized-algorithms-fall-2002/6d34c95fe9eae913989b678a98a1c184_hw3.pdf
 file_type: application/pdf
+parent_uid: 372d9d6e-7fbf-5010-8feb-41f111353735
 resourcetype: Document
 title: hw3.pdf
 uid: 6d34c95f-e9ea-e913-989b-678a98a1c184
